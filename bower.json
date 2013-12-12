@@ -2,7 +2,8 @@
   "name": "memory-game",
   "private": true,
   "dependencies": {
-    "platform": "Polymer/platform#master",
-    "polymer": "Polymer/polymer#master"
-  }
+    "platform": "Polymer/platform#0.1.1",
+    "polymer": "Polymer/polymer#0.1.1"
+  },
+  "version": "0.1.1"
 }
